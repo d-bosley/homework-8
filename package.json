@@ -1,0 +1,17 @@
+{
+  "name": "project_class_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "compile:sass": "sass scss/main.scss css/styles.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.49.9"
+  }
+}
